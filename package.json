@@ -2,7 +2,6 @@
   "name": "layouts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://janekhris.github.io/ra-hw2-layouts/",
   "type": "module",
   "scripts": {
     "dev": "vite",
