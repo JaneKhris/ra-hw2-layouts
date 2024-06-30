@@ -2,7 +2,7 @@ image: Ubuntu1804 # образ для сборки
 stack: node 17 # окружение
 branches:
   only:
-    - dev # ветка git
+    - gh-pages # ветка git
 cache: node_modules # кеширование
 install:
   - npm install # команда установки зависимостей
